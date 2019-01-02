@@ -172,10 +172,10 @@ Other ideas (without source to hand):
 -------
 
 # github gamejam 2018
-https://dario-zubovic.itch.io/kala - nice platformy thing, + tower defense. jumping is fiddly, but looks nice!
-https://buch.itch.io/monsterpong nice pong game, multiple balls, breakout against opponent
-https://guoboism.itch.io/mixup color-mixing puzzle
-https://milandonhowe.itch.io/a-slimy-quest  hybrid 2D Platformer with combat and pong mechanics
+* https://dario-zubovic.itch.io/kala - nice platformy thing, + tower defense. jumping is fiddly, but looks nice!
+* https://buch.itch.io/monsterpong nice pong game, multiple balls, breakout against opponent
+* https://guoboism.itch.io/mixup color-mixing puzzle
+* https://milandonhowe.itch.io/a-slimy-quest  hybrid 2D Platformer with combat and pong mechanics
 
 # License
 
