@@ -36,13 +36,13 @@ Works: left, right, shoot
 
 ### Breakout/Pong
 * [Ball And Wall](https://github.com/budnix/ball-and-wall) - Pure JavaScript arkanoid style game. [Play it now!](http://ballandwall.com/)
-Works: fairly snazzy 1-player breakout game. Left, right, release ball. 
+  - Works: fairly snazzy 1-player breakout game. Left, right, release ball. 
 * [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5.
-Live game link is dead, it's a multiplayer breakout which could be nice
+  - Live game link is dead, it's a multiplayer breakout which could be nice
 
 ### 'Flappy bird'
 * [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play it now!](http://khele.in/pappu-pakia/)
-- this is the nicest I've found, isn't too hard, has some bonus things to make interesting.
+  - this is the nicest I've found, isn't too hard, has some bonus things to make interesting.
 * [Captain Rogers](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
 Works: flappy bird game, click to go up/release to go down. Low res graphics. 
 * [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJS. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
