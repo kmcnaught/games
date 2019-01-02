@@ -35,46 +35,63 @@ See https://github.com/leereilly/games for original list, including native games
 
 ## Arcade
 
+### Shortlist
 * [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
-Works: move left/right, jump, clone, tab between clones. Bug: loses graphics if you leave tab. No license.
+- no timing required, clone to solve problems
+- controls: left, right, jump, clone, tab between clones. jumping shouldn't need to be too precise. Only ~4 levels. Ah. Would need to design new levels
+- Bug: breaks if you leave tab. No license.
+
+### Vertical scrolling space shooter
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development. [Play it now!](http://cykod.github.io/AlienInvasion/)
 Works: move left, right, fire (vertical scroller)
+* [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - Very simple Flixel game inspired by the Taito classic. [Play it now!](http://flixel.org/flxinvaders/)
+Works: left, right, shoot 
+
+### Breakout
 * [Ball And Wall](https://github.com/budnix/ball-and-wall) - Pure JavaScript arkanoid style game. [Play it now!](http://ballandwall.com/)
 Works: fairly snazzy 1-player breakout game. Left, right, release ball. 
 * [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5.
 Live game link is dead, it's a multiplayer breakout which could be nice
+
+### 'Flappy bird'
 * [Captain Rogers](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
 Works: flappy bird game, click to go up/release to go down. Low res graphics. 
-* [Cell Mates](https://github.com/gamebytes/cellmates) - Game made in 48 hours for the 2013 Global Game Jam.
-Live game link is dead.
-* [Ceros Snake](https://github.com/mjhasbach/ceros-snake) - A remake of the iconic 70's Snake game.
-Live game link is dead.
-* [CHANG€](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers. [Play it now!](http://change-game.herokuapp.com/)
-Works: suprisingly fun, time limit is stressful. Probably not worth it. 
-* [Circus Charlie](https://github.com/eugenioclrc/circushtml5) - HTML5 tribute created in Phaser.
-works: forward (not really necessary) and jump (time sensitive). simple horizontal scroller.
-* [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
-Works: nice and simple, just move left/right.
 * [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJS. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
 Meh, simple, a bit of a pain, jumpy.
-* [Codename Lumberjack](https://github.com/arkeus/Codename-Lumberjack) - Simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
-Works: nice demo of a platformer made with flixel, but not a complete game
-* [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play it now!](http://hakim.se/experiments/html5/coil/)
-Probably not appropriate for gaze control
-* [Custom Tetris](https://github.com/ondras/custom-tetris) - Play the classic Tetris game the way you like it. [Play it now!](http://ondras.github.io/custom-tetris/)
-Works: interesting (local) multiplayer, could be an intro to tetris for eye gaze player (you get to choose what blocks come next), or they can set up nasty problems for someone else.
-* [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game.
-Nothing time-sensitive [possibly slightly but that could be fixed], just need left/right/up/down, puzzle at your own pace.
+
+### Vertical scroller
+* [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
+Works: nice and simple, just move left/right.
 * [Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29) - Written in JavaScript and using the great Phaser library. [Play it now!](http://dreamshowadventures.github.io/LudumDare29/)
 Quite a nice, forgiving, vertical scroller: collect things and avoid things. left/right only.
-* [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind.
-Link is dead.
-* [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. [Play it now!](http://anirudhjoshi.github.com/fluid_table_tennis)
-Cool but not really up to scratch. Maybe another take on plasma pong?
-* [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - Very simple Flixel game inspired by the Taito classic. [Play it now!](http://flixel.org/flxinvaders/)
-Works: left, right, shoot 
-* [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - Very simple Flixel game inspired by the classic arcade shooter. [Play it now!](http://www.flixel.org/flxteroids/)
-Not a bad take on asteroids...
+
+### Platformer
+* [Codename Lumberjack](https://github.com/arkeus/Codename-Lumberjack) - Simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
+Works: nice demo of a platformer made with flixel, but not a complete game
+
+### Arcade-Puzzle(?)
+* [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game.
+Nothing time-sensitive [possibly slightly but that could be fixed], just need left/right/up/down, puzzle at your own pace.
+
+
+### Misc
+* [Custom Tetris](https://github.com/ondras/custom-tetris) - Play the classic Tetris game the way you like it. [Play it now!](http://ondras.github.io/custom-tetris/)
+Works: interesting (local) multiplayer, could be an intro to tetris for eye gaze player (you get to choose what blocks come next), or they can set up nasty problems for someone else.
+* [CHANG€](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers. [Play it now!](http://change-game.herokuapp.com/)
+Works: weird but surprisingly fun, time limit is stressful. Probably not worth it. 
+* [Circus Charlie](https://github.com/eugenioclrc/circushtml5) - HTML5 tribute created in Phaser.
+works: forward (not really necessary) and jump (time sensitive). simple horizontal scroller.
+* [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play it now!](http://hakim.se/experiments/html5/coil/)
+Probably not appropriate for gaze control
+
+
+Other ideas (without source to hand):
+- plasma pong (e.g. like this but more polished)
+- logo programming 
+
+
+
+
 * [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - Sort of GIRP-inspired tower defense. [Play it now!](http://adamatomic.com/graverobbers)
 * [Heal 'em All](https://github.com/krzysu/game-off-2013) - Imagine, what if the cure exists? What if zombies plague can be stoped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them. [Play it now!](http://games.myviews.pl/heal-em-all/)
 nice! simple platformer, left, right, jump, shoot. could maybe make jumps easier   
