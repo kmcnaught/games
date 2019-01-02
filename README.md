@@ -140,26 +140,21 @@ this would make an okay testing ground for FPS interactions, would presumably ne
 ## Sandbox
 
 * [3d.city](https://github.com/lo-th/3d.city) - 3d city builder game. [Play it now!](http://lo-th.github.io/3d.city/index.html)
-* [Blk Game](https://github.com/morozd/blk-game) - Multiplayer Javascript/WebGL voxel world game demo. [Play it now!](http://benvanik.github.io/blk-game/)
-* [Cube Engine](https://github.com/Nurgak/Cube-engine) - 3D engine completely written in HTML5 without OpenGL. [Play it now!](http://nurgak.github.io/Cube-engine/)
-* [Project Cube](https://github.com/B-Train04/Project-Cube) - Voxel game based on Minecraft made with HTML5. [Play it now!](https://b-train04.github.io/Project-Cube/projectCube/index.html)
 
 ## Puzzle
-
-* [0hh0](https://github.com/Q42/0hn0) - Companion game to 0hh1 by Q42. [Play it now!](http://0hh0.com)
 * [0hh1](https://github.com/Q42/0hh1) - Lovely little logic game by Q42. [Play it now!](http://0hh1.com)
+- nice little logic game, just click on squares
 * [2048](https://github.com/gabrielecirulli/2048) - Sliding addition game [Play it now!](http://gabrielecirulli.github.io/2048/)
-* [A Dark Room](https://github.com/doublespeakgames/adarkroom) - Minimalist Text Adventure game written in JavaScript. [Play it now!](http://adarkroom.doublespeakgames.com/)
-* [Anagramica](https://github.com/binarymax/anagramica) - A word game and API for anagrams. [Play it now!](http://www.anagramica.com/)
+- nice little game, just need 4-way arrows
 * [Astry](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb. [Play it now!](http://wwwtyro.github.io/Astray/)
-* [Beatrix](https://github.com/cxong/Beatrix) - Music game where you arrange the drums to catch the beats and play the right rhythm. [Play it now!](http://gamejolt.com/games/puzzle/beatrix/27454/)
+- nice simple ball-steering maze, but doesn't look like much.
 * [BitBot](https://github.com/recardona/BitBot) - HTML/JS game where you control a bot, which must sense, plan, and act.
 * [BlicblockJS](https://github.com/cheshire137/blicblock-js) - JavaScript game based on Blicblock in The Sims 4. Match tetrominoes to clear the board.
 * [Blockrain.js](https://github.com/Aerolab/blockrain.js) - Embed & play the classic game on your site. Simple as that. [Play it now!](http://aerolab.github.io/blockrain.js/)
 * [Branching Out](https://github.com/thehen/game-off-2012) - Minimalist game about leaving home. [Play it now!](http://henryhoffman.com/branchingout/)
 * [Clone Man](https://github.com/adhicl/game-off-2012) - Puzzle, memory, retro game with simple graphics. [Play it now!](http://www.kongregate.com/games/Sorobaid/clone-man)
 * [Couch 2048](https://github.com/mvasilkov/glitch2016) - A physics-based puzzle, loosely related to the original 2048 game. [Play it now!](http://js13kgames.com/games/couch-2048/index.html)
-* [cube-composer](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming. [Play it now!](http://david-peter.de/cube-composer)
+I really like this! but not sure how eye-gazeable it would be...
 * [Drunken Viking](https://github.com/cxong/DrunkenViking) - Retrace your drunken rampage in reverse time. [Play it now!](http://congusbongus.itch.io/drunken-viking)
 * [Ending](http://robotacid.com/flash/ending) - Roguelike puzzle game. [Play it now!](http://robotacid.com/flash/ending/)
 * [Follow me! A Simon Clone](https://github.com/gamedolphin/follow_me_javascript_simon_clone) - Fully commented version of the famous game - [*Simon*](http://en.wikipedia.org/wiki/Simon_%28game%29) - in JavaScript, built using Phaser game engine.
