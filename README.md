@@ -36,7 +36,7 @@ See https://github.com/leereilly/games for original list, including native games
 - controls: left, right, jump, clone, tab between clones. jumping shouldn't need to be too precise. Only ~4 levels. Ah. Would need to design new levels
 - Bug: breaks if you leave tab. No license.
 * [Heal 'em All](https://github.com/krzysu/game-off-2013) - Imagine, what if the cure exists? What if zombies plague can be stoped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them. [Play it now!](http://games.myviews.pl/heal-em-all/)
-
+* [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. [Play it now!](http://hexgl.bkcore.com/)
 
 ### Vertical scrolling space shooter
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development. [Play it now!](http://cykod.github.io/AlienInvasion/)
@@ -113,54 +113,29 @@ requires UWP, haven't tried.
 - link not live, could try code
 * [Mode](https://github.com/AdamAtomic/Mode) - Small(but sadly not that simple) demo game built on the Flixel framework. [Play it now!](http://www.adamatomic.com/mode/)
 - stay alive, shoot things, need accurate jumping
-
-
-* [Phaser Snake](https://github.com/gamedolphin/javascript_snake) - JavaScript version of the snake game, created using the Phaser Engine.
-* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demostrates the power of the Entity game engine.
 * [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? [Play it now!](http://gregbatha.com/branches/)
 - ha, my visual perception totally mis-parsed the tunnel here and it didn't make any sense. 
 * [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change.
-* [Raging Gardens](https://github.com/petarov/game-off-2012) - Javascript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often.
-* [Release Cycles](https://github.com/RothschildGames/release-cycles) - Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle.
-* [Save The Forest](https://github.com/softvar/save-the-forest) - Save the burning forest! [Play it now!](http://js13kgames.com/games/save-the-forest/index.html)
-* [Ski Free](https://github.com/basicallydan/skifree.js) - JavaScript port of the classic PC Game, Skifree. [Play it now!](http://basicallydan.github.com/skifree.js)
-* [Snake](https://github.com/jrgdiz/snake) - Clone of the classic Snake game. [Play it now!](http://diz.es/snake/)
-* [Snake_new](https://github.com/RabiRoshan/snake_game) - Classic nokia snake game using web. [Play it now!](https://rabiroshan.github.io/snake_game/)
-* [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - A classic shoot'em up space shooter build in HTML5 with multiplayer. [Play it now!](http://couchfriends.com/games/5)
-* [Spashal](https://github.com/MrRar/spashal) - Danger lurks around every corner in space. [Play it now!](http://mrrar.github.io/spashal/)
-* [Square Off!](https://github.com/ScriptaGames/SquareOff/) - multiplayer 1v1 air-hockey style game, place squares to deflect the ball. [Play it now!](http://sqoff.com/)
-* [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - Scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play it now!](http://maettig.com/code/canvas/starship-sorades-13k/)
-* [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developped with PhaserJS Framework.
-* [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders) - Remake of Space Invaders in require.js. [Play it now!](http://strykerkkd.github.io/SpaceInvaders/)
-* [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play it now!](http://www.schillmania.com/survivor/)
-* [FullScreenMario](https://github.com/FullScreenShenanigans/FullScreenMario/) – a free HTML 5 remake of Super Mario Bros with additional features.
+ - simple platformer, I'm not quite sure what I'm supposed to do with it...
+* [Raging Gardens](https://github.com/petarov/game-off-2012) - Javascript/HTML5 web browser game where a hungry (ninja) rabbit farts too often.
+- meh, slightly glitchy, not really sure how long it can entertain, farting isn't that fun
+* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
+- got stuck loading, meh
 
 ## FPS
 
 * [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten. [Play it now!](https://kripken.github.io/BananaBread/cube2/bb.html)
-
-## RPG
-
-* [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and javascript.  [Play it now!](http://mitallast.github.io/diablo-js/)
-* [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript.
-* [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG.
-
-## MMORPG
-
-* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
-* [Tap Tap Adventure](https://github.com/Tach-Yon/Tap-Tap-Adventure) - Expansion of BrowserQuest. [Play it now!](http://taptapadventure.com/play)
+this would make an okay testing ground for FPS interactions, would presumably need extra input for shooting (not just dwell)
 
 ## Strategy
 * [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents! [Play it now!](http://ancientbeast.com/play)
-* [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - Clone of the popular RTS. [Play it now!](http://www.adityaravishankar.com/projects/games/command-and-conquer/)
+- not my bag, looks fiddly
 * [Freeciv-web](https://github.com/freeciv/freeciv-web) - An turn-based strategy game implemented in HTML5.
+- could be good, servers are down?
 * [Hexa Battle](https://github.com/itajaja/hb) - A turn based dungeon crawler written with Typescript, using React and SVG. [Play it now!](http://giacomotag.io/hb/)
+- looks quite nice, don't know how to evaluate
 * [Tower Defense](https://github.com/Casmo/tower-defense) - 3D Tower Defense build with Three.js in HTML5.
-
-## Racing
-
-* [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. [Play it now!](http://hexgl.bkcore.com/)
-* [Trigger Rally Online Edition](https://github.com/CodeArtemis/TriggerRally) - Fast arcade rally racing.
+- looks quite nice, don't know how to evaluate
 
 ## Sandbox
 
