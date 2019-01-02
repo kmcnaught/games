@@ -40,7 +40,7 @@ See https://github.com/leereilly/games for original list, including native games
 * [Infectors](https://github.com/satanas/infectors) - Sokoban-like puzzle game developed with Phaser. [Play it now!](http://satanas.github.io/infectors/)
   - very nice simple puzzle game, just need arrows
 * [Zoko](https://github.com/lulea/game-off-2012) - 3D version of Sokoban. [Play it now!](http://lulea.github.io/game-off-2012/)
-- 3d sokoban puzzle
+  - 3d sokoban puzzle
   
 ### Vertical scrolling space shooter
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development. [Play it now!](http://cykod.github.io/AlienInvasion/)
