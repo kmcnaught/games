@@ -42,6 +42,10 @@ See https://github.com/leereilly/games for original list, including native games
 * [Zoko](https://github.com/lulea/game-off-2012) - 3D version of Sokoban. [Play it now!](http://lulea.github.io/game-off-2012/)
   - 3d sokoban puzzle
   
+## Platformer
+* Gloop: https://pilotinpyjamas.itch.io/gloop
+* Heal 'em all (see above)  
+  
 ### Vertical scrolling space shooter
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development. [Play it now!](http://cykod.github.io/AlienInvasion/)
 Works: move left, right, fire (vertical scroller)
@@ -184,6 +188,12 @@ Other ideas (without source to hand):
 * [The Killer](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
 
 -------
+
+# github gamejam 2018
+https://dario-zubovic.itch.io/kala - nice platformy thing, + tower defense. jumping is fiddly, but looks nice!
+https://buch.itch.io/monsterpong nice pong game, multiple balls, breakout against opponent
+https://guoboism.itch.io/mixup color-mixing puzzle
+https://milandonhowe.itch.io/a-slimy-quest  hybrid 2D Platformer with combat and pong mechanics
 
 # License
 
