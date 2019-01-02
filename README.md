@@ -138,7 +138,7 @@ Other ideas (without source to hand):
   - nice little game, just need 4-way arrows
 * [Astry](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb. [Play it now!](http://wwwtyro.github.io/Astray/)
   - nice simple ball-steering maze, but doesn't look like much.
- * [Parity](https://github.com/abejfehr/parity) - A numbers puzzle game. [Play it now!](http://abefehr.com/parity/)
+* [Parity](https://github.com/abejfehr/parity) - A numbers puzzle game. [Play it now!](http://abefehr.com/parity/)
   - simple puzzle, just need arrows 
 * [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations. [Play it now!](http://code.jerev.be/ggo13-transcube/)
   - meh, puzzle platformer, could be good, but jumping is a bit sensitive
