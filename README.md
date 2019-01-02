@@ -120,7 +120,7 @@ Other ideas (without source to hand):
 * [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? [Play it now!](http://gregbatha.com/branches/)
   - ha, my visual perception totally mis-parsed the tunnel here and it didn't make any sense. 
 * [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change.
- - simple platformer, I'm not quite sure what I'm supposed to do with it...
+  - simple platformer, I'm not quite sure what I'm supposed to do with it...
 * [Raging Gardens](https://github.com/petarov/game-off-2012) - Javascript/HTML5 web browser game where a hungry (ninja) rabbit farts too often.
   - meh, slightly glitchy, not really sure how long it can entertain, farting isn't that fun
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
@@ -154,7 +154,6 @@ Other ideas (without source to hand):
   - nice simple ball-steering maze, but doesn't look like much.
  * [Parity](https://github.com/abejfehr/parity) - A numbers puzzle game. [Play it now!](http://abefehr.com/parity/)
   - simple puzzle, just need arrows 
-
 * [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations. [Play it now!](http://code.jerev.be/ggo13-transcube/)
   - meh, puzzle platformer, could be good, but jumping is a bit sensitive
 * [For King](https://github.com/AD1337/ForKingGame) - Puzzle platformer game about a king in search for his lost crown. [Play it now!](http://www.newgrounds.com/dump/item/1cc54f046fa51768d8169e65121b0af0)
