@@ -96,27 +96,25 @@ Works: weird but surprisingly fun, time limit is stressful. Probably not worth i
 Other ideas (without source to hand):
 - plasma pong (e.g. like this but more polished)
 - logo programming 
-
+- move ball on wooden tilting maze
 
 
 ### Meh, not really
 
 * [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play it now!](http://hakim.se/experiments/html5/coil/)
-Probably not appropriate for gaze control
+  - Probably not appropriate for gaze control
 * [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - Sort of GIRP-inspired tower defense. [Play it now!](http://adamatomic.com/graverobbers)
-currently requires lots of keys, could be turned into dwell buttons, but probably requires timing. flash keeps freezing up.
+  - currently requires lots of keys, could be turned into dwell buttons, but probably requires timing. flash keeps freezing up.
 * [HotFix](https://github.com/sdrdis/hotfix) - Help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features. [Play it now!](http://sdrdis.github.com/hotfix/)
-requires unity web player, can't get it working
+  - requires unity web player, can't get it working
 * [hurry!](https://github.com/hughsk/ludum-dare-27) - Small but speedy arcade shooter. [Play it now!](http://hughsk.io/ludum-dare-27/)
-WASD + jump + shoot, don't really get it, survive for as long as possible, probably requires speed
+  - WASD + jump + shoot, don't really get it, survive for as long as possible, probably requires speed
 * [Jekyll & Hyde Collide](https://github.com/awesome-interactive/game-off-2013) - Multi-layered infinite side-scroller. [Play it now!](http://awesome-interactive.github.io/game-off-2013/ExportedGame.html) 
-require UWP, haven't tried
+  - require UWP, haven't tried
 * [JumpSuit](https://github.com/KordonBleu/jumpsuit) - a multiplayer space shooter set in a wrapped universe. [Play it now!](http://jumpsuit.space/)
   - servers are all dead, looks kind nice though
 * [Mega Girl](https://github.com/ddionisio/game-off-2013) - Megaman inspired game. [Play it now!](http://www.renegadeware.com/web_games/megagirl/)
-requires UWP, haven't tried.
-* [Masonry JavaScript Tetris Clone](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) - Tetris clone created using HTML5/JavaScript/Phaser.
-  - link not live, could try code
+  - requires UWP, haven't tried.
 * [Mode](https://github.com/AdamAtomic/Mode) - Small(but sadly not that simple) demo game built on the Flixel framework. [Play it now!](http://www.adamatomic.com/mode/)
   - stay alive, shoot things, need accurate jumping
 * [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? [Play it now!](http://gregbatha.com/branches/)
@@ -124,14 +122,14 @@ requires UWP, haven't tried.
 * [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change.
  - simple platformer, I'm not quite sure what I'm supposed to do with it...
 * [Raging Gardens](https://github.com/petarov/game-off-2012) - Javascript/HTML5 web browser game where a hungry (ninja) rabbit farts too often.
-- meh, slightly glitchy, not really sure how long it can entertain, farting isn't that fun
+  - meh, slightly glitchy, not really sure how long it can entertain, farting isn't that fun
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
-- got stuck loading, meh
+  - got stuck loading, meh
 
 ## FPS
 
 * [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten. [Play it now!](https://kripken.github.io/BananaBread/cube2/bb.html)
-this would make an okay testing ground for FPS interactions, would presumably need extra input for shooting (not just dwell)
+  - this would make an okay testing ground for FPS interactions, would presumably need extra input for shooting (not just dwell)
 
 ## Strategy
 * [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents! [Play it now!](http://ancientbeast.com/play)
@@ -158,20 +156,15 @@ this would make an okay testing ground for FPS interactions, would presumably ne
   - simple puzzle, just need arrows 
 
 * [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations. [Play it now!](http://code.jerev.be/ggo13-transcube/)
-- meh, could be good, but jumping is a bit sensitive
+  - meh, puzzle platformer, could be good, but jumping is a bit sensitive
 * [For King](https://github.com/AD1337/ForKingGame) - Puzzle platformer game about a king in search for his lost crown. [Play it now!](http://www.newgrounds.com/dump/item/1cc54f046fa51768d8169e65121b0af0)
-- this is very nice, but I think jumping is quite sensitive. looks lovely.
-
-* [Branching Out](https://github.com/thehen/game-off-2012) - Minimalist game about leaving home. [Play it now!](http://henryhoffman.com/branchingout/)
-* [Clone Man](https://github.com/adhicl/game-off-2012) - Puzzle, memory, retro game with simple graphics. [Play it now!](http://www.kongregate.com/games/Sorobaid/clone-man)
+  - this is very nice, but I think jumping is quite sensitive. looks lovely.
 * [Couch 2048](https://github.com/mvasilkov/glitch2016) - A physics-based puzzle, loosely related to the original 2048 game. [Play it now!](http://js13kgames.com/games/couch-2048/index.html)
-I really like this! but not sure how eye-gazeable it would be...
-* [Drunken Viking](https://github.com/cxong/DrunkenViking) - Retrace your drunken rampage in reverse time. [Play it now!](http://congusbongus.itch.io/drunken-viking)
-
+  - I really like this! but not sure how eye-gazeable it would be...
 * [Monkey Rally](https://github.com/antila/ludum-dare-28) - JavaScript game created for the Ludum Dare #28 jam. [Play it now!](http://antila.github.io/ludum-dare-28/)
-- pretty nice, queue up actions to move monkey to goal
+  - pretty nice, queue up actions to move monkey to goal
 * [Orbium](https://github.com/bni/orbium) - Modern version of the 90's game Log!cal. [Play it now!](http://bni.github.io/orbium/)
-- meh, get bored quickly
+  - meh, get bored quickly
 
 ## Clicker
 
