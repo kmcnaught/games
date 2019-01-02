@@ -112,7 +112,6 @@ nice! simple platformer, left, right, jump, shoot. could maybe make jumps easier
 * [Super Mario Bros](https://github.com/martindrapeau/backbone-game-engine) - Super Mario Bros level one written with Backbone Game Engine. [Play it now!](http://martindrapeau.github.io/backbone-game-engine/super-mario-bros/index.html)
 * [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play it now!](http://www.schillmania.com/survivor/)
 * [WPilot](https://github.com/jfd/wpilot) - A browser-based remake of the famous XPilot game, built with NodeJS and HTML5
-* [zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over".
 * [FullScreenMario](https://github.com/FullScreenShenanigans/FullScreenMario/) – a free HTML 5 remake of Super Mario Bros with additional features.
 
 ## FPS
