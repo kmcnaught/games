@@ -8,24 +8,6 @@ See https://github.com/leereilly/games for original list, including native games
 
 -------
 
-# Table of Contents.
-
-- [Browser-Based](#user-content-browser-based)
-  - [Arcade](#user-content-arcade)
-  - [FPS](#user-content-fps)
-  - [RPG](#user-content-rpg)
-  - [MMORPG](#user-content-mmorpg)
-  - [Strategy](#user-content-strategy)
-  - [Racing](#user-content-racing)
-  - [Sandbox](#user-content-sandbox)
-  - [Puzzle](#user-content-puzzle)
-  - [Clicker](#user-content-clicker)
-  - [Point and Click](#user-content-point-and-click)
-  - [Others](#user-content-others)
-
--------
-
-
 # Browser-Based
 
 ## Arcade
