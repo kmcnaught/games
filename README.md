@@ -34,7 +34,7 @@ Works: move left, right, fire (vertical scroller)
 * [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - Very simple Flixel game inspired by the Taito classic. [Play it now!](http://flixel.org/flxinvaders/)
 Works: left, right, shoot 
 
-### Breakout
+### Breakout/Pong
 * [Ball And Wall](https://github.com/budnix/ball-and-wall) - Pure JavaScript arkanoid style game. [Play it now!](http://ballandwall.com/)
 Works: fairly snazzy 1-player breakout game. Left, right, release ball. 
 * [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5.
