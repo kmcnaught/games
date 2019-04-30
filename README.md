@@ -12,17 +12,25 @@ See https://github.com/leereilly/games for original list, including native games
 
 ## Arcade
 
+### In progress
+* [Heal 'em All](https://github.com/krzysu/game-off-2013) - Imagine, what if the cure exists? What if zombies plague can be stoped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them. [Play it now!](http://games.myviews.pl/heal-em-all/)
+
 ### Shortlist
 * [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
     - no timing required, clone to solve problems
     - controls: left, right, jump, clone, tab between clones. jumping shouldn't need to be too precise. Only ~4 levels. Ah. Would need to design new levels
     - Bug: breaks if you leave tab. No license.
-* [Heal 'em All](https://github.com/krzysu/game-off-2013) - Imagine, what if the cure exists? What if zombies plague can be stoped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them. [Play it now!](http://games.myviews.pl/heal-em-all/)
-* [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. [Play it now!](http://hexgl.bkcore.com/)
+    - no license
 * [Infectors](https://github.com/satanas/infectors) - Sokoban-like puzzle game developed with Phaser. [Play it now!](http://satanas.github.io/infectors/)
   - very nice simple puzzle game, just need arrows
-* [Zoko](https://github.com/lulea/game-off-2012) - 3D version of Sokoban. [Play it now!](http://lulea.github.io/game-off-2012/)
-  - 3d sokoban puzzle
+  - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+* [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
+  - Works: nice and simple, just move left/right.
+  - MIT license
+  
+* [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play it now!](http://khele.in/pappu-pakia/)
+  - this is the nicest I've found, isn't too hard, has some bonus things to make interesting.
+  - no license
   
 ## Platformer
 * Gloop: https://pilotinpyjamas.itch.io/gloop
@@ -41,18 +49,15 @@ Works: left, right, shoot
   - Live game link is dead, it's a multiplayer breakout which could be nice
 
 ### 'Flappy bird'
-* [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play it now!](http://khele.in/pappu-pakia/)
-  - this is the nicest I've found, isn't too hard, has some bonus things to make interesting.
 * [Captain Rogers](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
 Works: flappy bird game, click to go up/release to go down. Low res graphics. 
 * [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJS. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
 Meh, simple, a bit of a pain, jumpy.
 
 ### Vertical scroller
-* [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
-Works: nice and simple, just move left/right.
 * [Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29) - Written in JavaScript and using the great Phaser library. [Play it now!](http://dreamshowadventures.github.io/LudumDare29/)
-Quite a nice, forgiving, vertical scroller: collect things and avoid things. left/right only.
+- Quite a nice, forgiving, vertical scroller: collect things and avoid things. left/right only.
+- no license, looks like it's being re-developed
 * [Octocat Jump](https://github.com/ogoshen/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://ogoshen.github.io/game-off-2012/)
   - vertical jumper, simpler than jolly jumper, but some nice physics?
 
@@ -65,9 +70,13 @@ Works: nice demo of a platformer made with flixel, but not a complete game
 Nothing time-sensitive [possibly slightly but that could be fixed], just need left/right/up/down, puzzle at your own pace.
 * [Hyperspace Garbage Collector](https://github.com/razh/game-off-2013) - General Hyperspace Waste Management Solutions. [Play it now!](http://razh.github.io/game-off-2013/)
   - just 4-way steering plus single toggle, steer space debris into goal by solving puzzles. Quite simple, nice, but few levels.
+  - requires quite precise controls in terms of timing/positioning, would be pretty hard.
 * [Newton Adventure](https://github.com/devnewton/newton_adventure) - Play Newton, a very special hero who has the power to change gravity direction! [Play it now!](http://play.bci.im/newton_adventure/)
   - rotate gravity, requires fairly sensitive timing of controls, but could be do-able...
-
+* [Zoko](https://github.com/lulea/game-off-2012) - 3D version of Sokoban. [Play it now!](http://lulea.github.io/game-off-2012/)
+  - 3d sokoban puzzle
+  - MIT license
+  
 ### Misc
 * [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - Implementation of Minesweeper in Dart. [Play it now!](http://dart-lang.github.io/sample-pop_pop_win/)
   - nice graphics
@@ -77,7 +86,8 @@ quite nice simple shooter, small graphics, but requires shooting with extra cont
 Works: interesting (local) multiplayer, could be an intro to tetris for eye gaze player (you get to choose what blocks come next), or they can set up nasty problems for someone else.
 * [CHANG€](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers. [Play it now!](http://change-game.herokuapp.com/)
 Works: weird but surprisingly fun, time limit is stressful. Probably not worth it. 
-
+* [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. [Play it now!](http://hexgl.bkcore.com/)
+ 
 
 Other ideas (without source to hand):
 - plasma pong (e.g. like this but more polished)
